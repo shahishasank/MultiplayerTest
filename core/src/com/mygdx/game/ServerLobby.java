@@ -83,12 +83,12 @@ public class ServerLobby extends Stage {
     }
 
     public void removePlayer(int id){
-        /*for(Player player:playersList){
+        for (Player player : playersList) {
             if(player.ID==id){
                 playersList.remove(player);
                 break;
             }
-        }*/
+        }
         //BufferPlayerList bpl=new BufferPlayerList();
         //bpl.setPlayersList(playersList);
         //server.sendToAllUDP(bpl);
