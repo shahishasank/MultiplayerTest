@@ -7,7 +7,7 @@ import com.mygdx.game.buffers.BufferPlayerList;
 import com.mygdx.game.buffers.BufferStartGame;
 
 /**
- * Created by Shasank on 4/18/2018.
+ * client lobby listener
  */
 
 public class ClientLobbyListener extends Listener {

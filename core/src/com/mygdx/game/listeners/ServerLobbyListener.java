@@ -8,7 +8,7 @@ import com.mygdx.game.ServerLobby;
 import com.mygdx.game.buffers.BufferPlayerReady;
 
 /**
- * Created by Shasank on 4/18/2018.
+ * server lobby listener
  */
 
 public class ServerLobbyListener extends Listener {

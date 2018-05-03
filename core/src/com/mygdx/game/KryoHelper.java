@@ -9,7 +9,7 @@ import com.mygdx.game.buffers.BufferStartGame;
 import java.util.ArrayList;
 
 /**
- * Created by Shasank on 4/18/2018.
+ * register classes on network
  */
 
 public class KryoHelper {
